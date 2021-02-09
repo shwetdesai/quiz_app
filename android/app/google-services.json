@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "152857208805",
+    "project_id": "quiz-project-b8885",
+    "storage_bucket": "quiz-project-b8885.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:152857208805:android:f1b7d38cc0991cf6b3310c",
+        "android_client_info": {
+          "package_name": "tinker.com.quiz_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "152857208805-3bt7i4p9khej37v7dnj0tov107pr6o13.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDli1Zc6wuRo88m1aGXzOJg85zWM1FDGvk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "152857208805-3bt7i4p9khej37v7dnj0tov107pr6o13.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
